@@ -1,6 +1,6 @@
 ## Table of contents
 
-- [HTML, CSS, js, and Git:](#html-css-js-and-git)
+- [HTML, CSS, JavaScript, and Git:](#html-css-js-and-git)
 - [User Story](#user-story)
 - [Description](#description)
 - [Acceptance Criteria](#acceptance-criteria)
@@ -9,7 +9,7 @@
 - [Deployment](#deployment)
 - [References](#references)
 
-## HTML, CSS, js, and Git:
+## HTML, CSS, JavaScript, and Git:
 03 JavaScript: Password Generator
 
 ## User Story
@@ -53,24 +53,32 @@ The following image shows the web application's appearance and functionality:
 - This will send the user the series of prompts to confirm.
 
 Number of characters
+
 ![Asking for number of characters](images/numberOfCharacter.png)
 
 Confirming the length of password
+
 ![Prompted for the length of the password](./images/confirmPwLength.png)
 
 Confirming the lowercase character
+
 ![Prompted for confirming the lowercase character](./images/lowercase.png)
 
 Confirming the uppercase character
-![Prompted for confirming the uppercase character](./images/uppercase.png)
+
+![Prompted for confirming the uppercase
+ character](./images/uppercase.png)
 
 Confirming the numerical value
+
 ![Prompted for confirming the numerical value](./images/numeric.png)
 
 Confirming the special character
+
 ![Prompted for confirming the special character](./images/specialCharacter.png)
 
 Generated Password
+
 ![Example of generated password](./images/generatedPw.png)
 
 
